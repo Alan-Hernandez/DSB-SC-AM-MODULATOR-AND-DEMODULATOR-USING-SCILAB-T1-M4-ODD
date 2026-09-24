@@ -60,21 +60,20 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 ## TABULATION
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V)  | FREQUENCY (Hz) |
-| ------- | ---------------------- | -------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical:** |                |
-|         |                        | **Emax =**     |                |
-|         |                        | **Emin =**     |                |
-| **4**   | **Demodulated Signal** | **Practical:** |                |
+<img width="1599" height="1036" alt="WhatsApp Image 2026-09-24 at 1 30 18 PM" src="https://github.com/user-attachments/assets/403dd9e8-96a8-4f26-b163-6a0f5a95449a" />
 
----
+## CODING
+<img width="867" height="1188" alt="WhatsApp Image 2026-09-24 at 1 28 55 PM" src="https://github.com/user-attachments/assets/838d1d2a-d977-4ad4-a03f-2a3e1a8d7bd2" />
 
-## MODEL GRAPH
+## GRAPH 
+<img width="1542" height="862" alt="image" src="https://github.com/user-attachments/assets/01cd4388-450f-4f0c-8ca0-9b7138d943d0" />
 
-**Practical**
+## RESULT 
+<img width="1600" height="1084" alt="WhatsApp Image 2026-09-24 at 1 28 32 PM" src="https://github.com/user-attachments/assets/ebaec873-07dc-4b44-a636-09a3c9cd1539" />
+
+## MARK ALLOCATION 
+<img width="900" height="733" alt="WhatsApp Image 2026-09-24 at 1 29 14 PM" src="https://github.com/user-attachments/assets/1c63a915-6476-41a9-9417-edee1f03d59f" />
+
+
 
 ---
